@@ -2,7 +2,8 @@
 
 A frontend developer who enjoys building practical, user-focused applications. I work on projects that solve real problems, with a strong focus on clean UI, smooth user experience, and meaningful functionality.<hr>
 ## 🔍I’m currently on:
-- 📍 Building a **location-based market price discovery platform**
+- 📍 Building a **AI powered Resume Analyzer & Job-Matcher**
+- 📍Building a **location-based market price discovery platform**
 - 💼 Developing my **personal portfolio**
 - ✅ Creating a **To-Do application** for task management
 - 💸 Working on an **Expense Tracker system**
