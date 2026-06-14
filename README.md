@@ -2,12 +2,7 @@
 
 A frontend developer who enjoys building practical, user-focused applications. I work on projects that solve real problems, with a strong focus on clean UI, smooth user experience, and meaningful functionality.<hr>
 ## 🔍I’m currently on:
-- 📍 Building a **AI powered Resume Analyzer & Job-Matcher**
-- 📍Building a **location-based market price discovery platform**
-- 💼 Developing my **personal portfolio**
-- ✅ Creating a **To-Do application** for task management
-- 💸 Working on an **Expense Tracker system**
-- 📧 Building a **platform that lists all websites & apps where a user’s email ID is used**
+- 📍 Building **FleetMind-An AI powered predictive maintenance System**
 - 🤖 Moving toward **AI-powered full-stack development** to automate tasks, enhance UX, and build smarter, more efficient applications
 - 🚀 Believer in **learning by building**, improving through iteration, and creating **useful, scalable products**
   <hr>
