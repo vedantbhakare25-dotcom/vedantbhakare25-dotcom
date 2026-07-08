@@ -1,6 +1,6 @@
 # 👋🏻I’m Vedant Bhakare:
 
-A frontend developer who enjoys building practical, user-focused applications. I work on projects that solve real problems, with a strong focus on clean UI, smooth user experience, and meaningful functionality.<hr>
+A MERN stack developer who enjoys building practical, user-focused applications. I work on projects that solve real problems, with a strong focus on clean UI, smooth user experience, and meaningful functionality.<hr>
 ## 🔍I’m currently on:
 - 📍 Building **FleetMind-An AI powered predictive maintenance System**
 - 🤖 Moving toward **AI-powered full-stack development** to automate tasks, enhance UX, and build smarter, more efficient applications
